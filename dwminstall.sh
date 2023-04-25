@@ -8,7 +8,7 @@ sudo apt install sxhkd build-essential libx11-dev libxinerama-dev sharutils suck
 
 echo "Cloneing Stuff"
 cd $HOME/Downloads/
-git clone https://github.com/Esmoooo/scripts.git
+git clone https://github.com/Esmoooo/script
 cd
 cd $HOME/.config
 git clone https://github.com/Esmoooo/suckless.git
